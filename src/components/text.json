@@ -1,0 +1,120 @@
+{
+  "Code": "0",
+  "Msg": "ok",
+  "Content": [
+    {
+      "OperationRoomId": "00001",
+      "OperationRoomName": "手术间01",
+      "OperList": [
+        {
+          "OperationInformeId": "305204556",
+          "EnterOperationTime": "2017-05-03 08:50:30",
+          "AnesthStartTime": "2017-05-03 09:00:30",
+          "OperationStartTime": "2017-05-03 09:00:30",
+          "OperationEndTime": "2017-05-03 10:00:30",
+          "AnesthEndTime": "2017-05-03 10:50:30",
+          "OutOperationTime": "2017-05-03 11:00:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 12:00:30",
+          "AnesthStartTime": "2017-05-03 13:00:30",
+          "OperationStartTime": "2017-05-03 13:00:30",
+          "OperationEndTime": "2017-05-03 14:00:30",
+          "AnesthEndTime": "2017-05-03 14:50:30",
+          "OutOperationTime": "2017-05-03 15:00:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 16:00:30",
+          "AnesthStartTime": "2017-05-03 16:20:30",
+          "OperationStartTime": "2017-05-03 17:00:30",
+          "OperationEndTime": "2017-05-03 18:00:30",
+          "AnesthEndTime": "2017-05-03 18:50:30",
+          "OutOperationTime": "2017-05-03 19:00:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 20:10:30",
+          "AnesthStartTime": "2017-05-03 20:20:30",
+          "OperationStartTime": "2017-05-03 20:50:30",
+          "OperationEndTime": "2017-05-03 21:00:30",
+          "AnesthEndTime": "2017-05-03 19:50:30",
+          "OutOperationTime": "2017-05-03 22:00:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 22:10:30",
+          "AnesthStartTime": "2017-05-03 22:20:30",
+          "OperationStartTime": "2017-05-03 22:30:30",
+          "OperationEndTime": "2017-05-03 23:00:30",
+          "AnesthEndTime": "2017-05-03 19:50:30",
+          "OutOperationTime": "2017-05-03 23:30:30"
+        }
+      ]
+    }, {
+      "OperationRoomId": "00002",
+      "OperationRoomName": "手术间02",
+      "OperList": [
+        {
+          "OperationInformeId": "305204556",
+          "EnterOperationTime": "2017-05-03 08:00:00",
+          "AnesthStartTime": "2017-05-03 08:50:30",
+          "OperationStartTime": "2017-05-03 09:00:00",
+          "OperationEndTime": "2017-05-03 10:00:30",
+          "AnesthEndTime": "2017-05-03 10:50:50",
+          "OutOperationTime": "2017-05-03 12:00:00"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 13:20:30",
+          "AnesthStartTime": "2017-05-03 13:10:30",
+          "OperationStartTime": "2017-05-03 14:00:30",
+          "OperationEndTime": "2017-05-03 15:00:30",
+          "AnesthEndTime": "2017-05-03 14:50:30",
+          "OutOperationTime": "2017-05-03 16:20:30"
+        }
+      ]
+    }, {
+      "OperationRoomId": "00003",
+      "OperationRoomName": "手术间03",
+      "OperList": [
+        {
+          "OperationInformeId": "305204556",
+          "EnterOperationTime": "2017-05-03 08:30:30",
+          "AnesthStartTime": "2017-05-03 09:00:30",
+          "OperationStartTime": "2017-05-03 09:00:30",
+          "OperationEndTime": "2017-05-03 10:00:30",
+          "AnesthEndTime": "2017-05-03 10:50:30",
+          "OutOperationTime": "2017-05-03 11:00:30"
+        }
+      ]
+    }
+  , {
+      "OperationRoomId": "00004",
+      "OperationRoomName": "手术间04",
+      "OperList": [
+        {
+          "OperationInformeId": "305204556",
+          "EnterOperationTime": "2017-05-03 08:50:30",
+          "AnesthStartTime": "2017-05-03 09:00:30",
+          "OperationStartTime": "2017-05-03 09:50:30",
+          "OperationEndTime": "2017-05-03 10:20:30",
+          "AnesthEndTime": "2017-05-03 10:50:30",
+          "OutOperationTime": "2017-05-03 11:20:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 12:50:30",
+          "AnesthStartTime": "2017-05-03 13:00:30",
+          "OperationStartTime": "2017-05-03 13:20:30",
+          "OperationEndTime": "2017-05-03 14:20:30",
+          "AnesthEndTime": "2017-05-03 14:50:30",
+          "OutOperationTime": "2017-05-03 15:20:30"
+        }, {
+          "OperationInformeId": "305204557",
+          "EnterOperationTime": "2017-05-03 16:00:30",
+          "AnesthStartTime": "2017-05-03 16:00:30",
+          "OperationStartTime": "2017-05-03 17:00:30",
+          "OperationEndTime": "2017-05-03 18:00:30",
+          "AnesthEndTime": "2017-05-03 14:50:30",
+          "OutOperationTime": "2017-05-03 19:20:30"
+        }
+      ]
+    }
+  ]
+}
